@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//Jase-Pasay.github.io/minesweeper/static/css/main.7340f22a.chunk.css",
+    "main.js": "/http//Jase-Pasay.github.io/minesweeper/static/js/main.51917db4.chunk.js",
+    "main.js.map": "/http//Jase-Pasay.github.io/minesweeper/static/js/main.51917db4.chunk.js.map",
+    "runtime-main.js": "/http//Jase-Pasay.github.io/minesweeper/static/js/runtime-main.421ff781.js",
+    "runtime-main.js.map": "/http//Jase-Pasay.github.io/minesweeper/static/js/runtime-main.421ff781.js.map",
+    "static/js/2.e2737e1a.chunk.js": "/http//Jase-Pasay.github.io/minesweeper/static/js/2.e2737e1a.chunk.js",
+    "static/js/2.e2737e1a.chunk.js.map": "/http//Jase-Pasay.github.io/minesweeper/static/js/2.e2737e1a.chunk.js.map",
+    "index.html": "/http//Jase-Pasay.github.io/minesweeper/index.html",
+    "precache-manifest.e7cc11ef1718bd07b84e15c7d2b99630.js": "/http//Jase-Pasay.github.io/minesweeper/precache-manifest.e7cc11ef1718bd07b84e15c7d2b99630.js",
+    "service-worker.js": "/http//Jase-Pasay.github.io/minesweeper/service-worker.js",
+    "static/css/main.7340f22a.chunk.css.map": "/http//Jase-Pasay.github.io/minesweeper/static/css/main.7340f22a.chunk.css.map",
+    "static/js/2.e2737e1a.chunk.js.LICENSE.txt": "/http//Jase-Pasay.github.io/minesweeper/static/js/2.e2737e1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.421ff781.js",
+    "static/js/2.e2737e1a.chunk.js",
+    "static/css/main.7340f22a.chunk.css",
+    "static/js/main.51917db4.chunk.js"
+  ]
+}
