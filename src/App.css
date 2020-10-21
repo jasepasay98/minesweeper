@@ -1,0 +1,126 @@
+.App {
+  text-align: center;
+  background-color: black;
+}
+
+td {
+  background-color: lightgray;
+  border-bottom: 4px solid grey;
+  border-right: 4px solid grey;
+  border-top: 4px solid white;
+  border-left: 4px solid white;
+}
+
+.the-game {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.header {
+  background-color: grey;
+  border: none;
+}
+
+th {
+  word-spacing: 20px;
+  white-space: pre;
+  background-color: lightgray;
+  border-bottom: 4px solid grey;
+  border-right: 4px solid grey;
+  border-top: 4px solid white;
+  border-left: 4px solid white;
+}
+
+.col {
+  width: 33.33%;
+  float: left;
+}
+
+@media only screen and (min-width: 768px) {
+  .tile {
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+  }
+  
+  .the-game {
+    height: 100vh;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  th {
+    word-spacing: 20px;
+    white-space: pre;
+  }
+
+  table {
+    border-spacing: 0px;
+    margin: 0 auto;
+    max-width: 800px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  table {
+    border-spacing: 0px;
+    margin: 0 auto;
+  
+    width: 100%;
+  }
+
+  .tile {
+    width: 20px;
+    height: 29px;
+    font-size: 20px;
+  }
+}
+
+.empty {
+  background-color: #ABABAB;
+  border-bottom: 1px solid #636363;
+  border-right: 1px solid #636363;
+  border-top: 1px solid #636363;
+  border-left: 1px solid #636363;
+}
+
+.red {
+  color: #FA1200;
+}
+
+.green {
+  color:#15EB38;
+}
+
+.darkblue {
+  color: #000151;
+}
+
+.darkred {
+  color: #6B0B00;
+}
+
+.bluegreen {
+  color: #286B69;
+}
+
+.black {
+  color: black;
+}
+
+.darkgrey {
+  color: darkgrey;
+}
+
+.mine {
+  color: black;
+}
+
+.flag {
+  color: #FA1200;
+}
+
+.blue {
+  color: #0E01F6;
+}
+
